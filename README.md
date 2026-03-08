@@ -1,2 +1,2 @@
 # Capstone-Molecular-Docking-Dynamic-Python-Scripts
-Computational workflow for α7 nAChR PAM design: BInD ligand generation → RDKit filtering → Vina docking
+Scripts for reproducible computational drug design workflow targeting α7 nAChR positive allosteric modulators. BInD generation → RDKit analysis → Vina docking → MD validation. Chapman University Biochemistry Capstone 2026.
